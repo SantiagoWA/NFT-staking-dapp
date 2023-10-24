@@ -105,8 +105,8 @@ Please install or have installed the following:
 
 Clone this repo with the command :
    ```sh
-   git clone https://github.com/kaymen99/KryptoPunks-nft-staking-dapp.git
-   cd KryptoPunks-nft-staking-dapp
+   git clone https://github.com/SantiagoWA/NFT-staking-dapp
+   cd NFT-staking-dapp
    ```
 
 ### Contracts
@@ -161,7 +161,7 @@ To start the user interface just run the following commands :
 <!-- Contact -->
 ## Contact
 
-If you have any question or problem running this project just contact me: aymenMir1001@gmail.com
+If you have any question or problem running this project just contact me: thesantiagowa@gmail.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
